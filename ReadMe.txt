@@ -1,6 +1,3 @@
-
-14.MapReduce performs batch processing where as spark provides real-time processing.
-
 MapReduce Implementation:
 1.Command to run map reduce program is 
 	Compilation:
@@ -34,4 +31,5 @@ grained implementation.
 11.The calculation in Spark is lazy, means transformations does not get applied untill an action is called on it.
 12.Spark performs in-memory processing of data which makes spark faster than mapreduce.
 13.MapReduce is written in Java, where as spark is mostly written in python or scala
+14.MapReduce performs batch processing where as spark provides real-time processing.
 =========================================================================================================
